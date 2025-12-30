@@ -33,3 +33,5 @@ RStudioではヘルプペインではなく、ブラウザに表示されます�
 jhelpのdocディレクトリ配下に公式ドキュメントの日本語訳（R-admin、R-data、R-exts、R-FAQ、R-intro、R-ints、R-lang、rw-FAQ）のHTMLとPDFを置いています。元のtexinfoファイルを翻訳してHTMLとPDFを生成しました。
 
 HTMLはmakeinfoで生成しても日本語の五十音順索引が作られるようです。一方、texi2pdfでは仕様上不可能なため、日本語索引が必要な『概念の索引』だけ削除しています。LaTeXに変換してPDF化すると日本語索引は作れるものの、別のPDFファイルへのリンク（例えばR-intro.pdfからR-admin.pdfへのリンクなど）が切れます。更に、表のレイアウトが一部崩れます。これらのデメリットを考慮して、texi2pdfでPDF化しました。
+
+HTMLは、RStudioのヘルプペインから開くとアンカーが効きません。ブラウザから直接開けば動作します。
