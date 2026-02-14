@@ -39,7 +39,7 @@ HTMLはmakeinfoで生成しても日本語の五十音順索引が作られる�
 
 HTMLは、RStudioのヘルプペインから開くとアンカーが効きません（英語版公式HTMLも同じ）。ブラウザから直接開けば動作します。
 ## パッケージソース
-sources ディレクトリ の jhelpxyz-w-src.zip（x/y/z/w には jhelp パッケージと同じ数字が入ります）に、本パッケージをビルドするソース一式を置いています。ヘルプのRdファイルと公式ドキュメントのtexinfoファイルの日本語版も含まれます。詳細については、これを展開して作成されるディレクトリにある HowToBuild.txt を参照してください。
+sources ディレクトリ の jhelpxyz-w-src.zip（x/y/z/w には jhelp パッケージと同じ数字が入ります）に、本パッケージをビルドするソース一式を置いています。ヘルプのRdファイルと公式ドキュメントのtexinfoファイルの日本語版も含まれます。詳細については、これを展開して作成されるディレクトリにある HowToBuild.txt を参照してください。実質的にWindows版Rインストーラをビルドします。
 ## 著作権 / Copyright
 - **Rコアパッケージ**  
   Copyright (C) 1995-2026 The R Core Team and other contributors  
