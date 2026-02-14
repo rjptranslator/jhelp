@@ -48,7 +48,7 @@ sources ディレクトリ の jhelpxyz-w-src.tar.gz（x/y/z/w には jhelp パ�
 - **R公式ドキュメント**  
   Copyright (C) The R Core Team  
 - **翻訳および独自コード**  
-  Copyright (C) 2026 船越裕介
+  Copyright (C) 2026 船越裕介（日本工業大学）
 ## ライセンス / License
 このパッケージは **GNU General Public License (GPL) 第2版以降** の条件で配布されています。  
 翻訳は原著ドキュメントの二次的著作物です。  
