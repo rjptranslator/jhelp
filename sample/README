@@ -1,0 +1,7 @@
+Rで短い音を鳴らすbeeprパッケージヘルプを日本語化したサンプルを置きます．
+beeprパッケージはaudioパッケージに依存していますが，そちらは日本語化していません．
+
+beepr_Rd_jp.zipがRdファイルの日本語訳です．
+インストールしたjhelpの下にあるlibraryに，beepr_jhelp.zipを解凍して作製されるbeeprディレクトリをコピーすれば，
+  jhelp(beep, package = "beepr")
+で，日本語訳したbeeprパッケージヘルプが閲覧できます．
